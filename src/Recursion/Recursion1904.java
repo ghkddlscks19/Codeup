@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class Recursiont1904 {
+public class Recursion1904 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int k = sc.nextInt();
